@@ -2,26 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=200&section=header&text=Eivan%20Kolchin%20Rivas&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Physics%20%2B%20Machine%20Learning%20%2B%20Building%20Things&descAlignY=55&descSize=18" alt="banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=560&lines=MPhys+Physics+student;Python+%C2%B7+ML+%C2%B7+Data+Science;Southampton+%E2%86%92+London;Always+building+something;Currently+arguing+with+a+neural+network" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=560&lines=MPhys+Physics+student;Python+%C2%B7+ML+%C2%B7+Data+Science;Southampton+%E2%86%92+London;Currently+building+Axis" alt="Typing SVG" />
 
 </div>
 
-<img src="./neural-network.svg" alt="animated neural network diagram" width="100%"/>
-
 ### About
 
-I study physics, but somewhere along the way I started spending more time in a terminal than in a lab. Most of what I actually do these days is software and ML: agents, small tools, products I talk myself into building. The physics side hasn't gone anywhere though; a university project estimating Hubble's constant from raw data was a good reminder that most of what I do now is just pattern matching with better maths.
+I'm a physics student who spends most of his free time outside the lecture hall building things — trading systems, small products, and the occasional attempt to re-derive a physical constant from first principles. I like problems where you have to actually understand the system before you're allowed to touch the code, which is probably why physics and software ended up in the same place for me.
 
-Based between **Southampton** and **London**, primarily in **Python**, with **TypeScript/React** for anything that needs a real interface. Work-life balance is a rumour I haven't been able to confirm.
+Based between **Southampton** and **London**. Mostly in **Python**, with detours into **TypeScript/React** when a project needs a real interface.
 
 <br/>
 
-### Always building something
+### Building
 
-I prototype constantly, most of it never sees daylight. Two things that made it far enough to be public:
-
-- **[Kerfox](https://github.com/EivanKolchin/kerfox-releases)**
-- **[Axis](https://aroundaxis.co.uk)**, a small workspace app for teams. ([releases](https://github.com/EivanKolchin/Axis-Releases))
+**[Axis](https://aroundaxis.co.uk)** — a workspace platform for small teams (2–20 people): docs, planning, scheduling, and AI-assisted task automation in one focused system instead of five disconnected tools. Closed-source; [published builds live here](https://github.com/EivanKolchin/Axis-Releases).
 
 <br/>
 
@@ -33,14 +28,14 @@ I prototype constantly, most of it never sees daylight. Two things that made it 
 
 **[The Wolf of Wall Street](https://github.com/EivanKolchin/The-Wolf-of-Wallstreet)**
 <br/>
-AI-driven trading platform: parallel agents for market decisions and news monitoring, a risk-management layer, and a live dashboard. FastAPI and Redis on the backend, Next.js and TypeScript on the front end, with an LLM-assisted decision pipeline.
+AI-driven trading platform — parallel agents for market decisions and news monitoring, a risk-management layer, and a live dashboard. FastAPI + Redis backend, Next.js/TypeScript frontend, LLM-assisted decision pipeline.
 
 </td>
 <td width="50%" valign="top">
 
 **[Vitally](https://github.com/EivanKolchin/Vitally---Patient-Health-Management-Software)**
 <br/>
-Patient health management software built for the Heidi Build 2025 Hackathon, helping patients navigate and stay on top of their own care.
+Patient health management software built for the Heidi Build 2025 Hackathon — helping patients navigate and stay on top of their own care.
 
 </td>
 </tr>
@@ -49,14 +44,14 @@ Patient health management software built for the Heidi Build 2025 Hackathon, hel
 
 **[Estimating Hubble's Constant](https://github.com/EivanKolchin/Estimating-Hubbles-Constant)**
 <br/>
-A university project deriving H₀ from observational data, worked through in Python instead of a lab notebook.
+Deriving H₀ from observational data — a physics problem worked through in Python instead of a lab notebook.
 
 </td>
 <td width="50%" valign="top">
 
 **[Natural Gas Forecasting](https://github.com/EivanKolchin/Natural_gas_forecasting_with_ML)**
 <br/>
-Forecasting natural gas prices with machine learning: time-series modelling on real market data.
+Forecasting natural gas prices with machine learning — time-series modelling on real market data.
 
 </td>
 </tr>
@@ -102,8 +97,8 @@ Forecasting natural gas prices with machine learning: time-series modelling on r
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eivan-kolchin-rivas-b7a092288/)
-[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:eivan.kolchin@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/eivan-kolchin-rivas-b7a092288/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF)](mailto:eivan.kolchin@proton.me)
 
 </div>
 
