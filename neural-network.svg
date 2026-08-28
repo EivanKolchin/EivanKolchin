@@ -1,63 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 130" width="100%" height="130" role="img" aria-label="Animated neural network diagram, signal pulsing from input to output nodes">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 90" width="100%" height="90" role="img" aria-label="Animated attention mechanism, focus sweeping across a sequence of tokens">
   <style>
     .edge {
-      stroke: #64748B;
-      stroke-width: 1.2;
       fill: none;
-      opacity: 0.4;
-      stroke-dasharray: 4 7;
-      animation: flow 2.6s linear infinite;
+      stroke: #64748B;
+      stroke-width: 1;
+      opacity: 0.16;
+      animation: edgePulse 4.8s ease-in-out infinite;
     }
-    .node {
-      fill: #0EA5E9;
+    .token {
+      rx: 2.5;
       transform-box: fill-box;
       transform-origin: center;
-      animation: pulse 2.4s ease-in-out infinite;
+      animation: tokenPulse 4.8s ease-in-out infinite;
     }
-    .node.out {
-      fill: #22D3EE;
+    @keyframes edgePulse {
+      0%, 100% { opacity: 0.16; stroke-width: 1; stroke: #64748B; filter: none; }
+      6%       { opacity: 0.95; stroke-width: 2; stroke: #22D3EE; filter: drop-shadow(0 0 2px #22D3EE99); }
+      18%      { opacity: 0.16; stroke-width: 1; stroke: #64748B; filter: none; }
     }
-    @keyframes flow {
-      to { stroke-dashoffset: -33; }
-    }
-    @keyframes pulse {
-      0%, 100% { opacity: 0.6; transform: scale(1); }
-      50% { opacity: 1; transform: scale(1.35); }
+    @keyframes tokenPulse {
+      0%, 100% { fill: #64748B; opacity: 0.6; transform: scale(1); filter: none; }
+      6%       { fill: #22D3EE; opacity: 1; transform: scale(1.45); filter: drop-shadow(0 0 3px #22D3EE); }
+      18%      { fill: #64748B; opacity: 0.6; transform: scale(1); filter: none; }
     }
     @media (prefers-reduced-motion: reduce) {
-      .edge, .node { animation: none; opacity: 0.85; }
+      .edge, .token { animation: none; opacity: 0.5; }
     }
   </style>
 
   <g class="edges">
-    <line class="edge" x1="50" y1="25" x2="320" y2="15" style="animation-delay:0s"/>
-    <line class="edge" x1="50" y1="25" x2="320" y2="50" style="animation-delay:0.2s"/>
-    <line class="edge" x1="50" y1="25" x2="320" y2="85" style="animation-delay:0.4s"/>
-    <line class="edge" x1="50" y1="25" x2="320" y2="120" style="animation-delay:0.6s"/>
-    <line class="edge" x1="50" y1="65" x2="320" y2="15" style="animation-delay:0.1s"/>
-    <line class="edge" x1="50" y1="65" x2="320" y2="50" style="animation-delay:0.3s"/>
-    <line class="edge" x1="50" y1="65" x2="320" y2="85" style="animation-delay:0.5s"/>
-    <line class="edge" x1="50" y1="65" x2="320" y2="120" style="animation-delay:0.7s"/>
-    <line class="edge" x1="50" y1="105" x2="320" y2="15" style="animation-delay:0.2s"/>
-    <line class="edge" x1="50" y1="105" x2="320" y2="50" style="animation-delay:0.4s"/>
-    <line class="edge" x1="50" y1="105" x2="320" y2="85" style="animation-delay:0.6s"/>
-    <line class="edge" x1="50" y1="105" x2="320" y2="120" style="animation-delay:0.8s"/>
-    <line class="edge" x1="320" y1="15" x2="590" y2="65" style="animation-delay:0.15s"/>
-    <line class="edge" x1="320" y1="50" x2="590" y2="65" style="animation-delay:0.35s"/>
-    <line class="edge" x1="320" y1="85" x2="590" y2="65" style="animation-delay:0.55s"/>
-    <line class="edge" x1="320" y1="120" x2="590" y2="65" style="animation-delay:0.75s"/>
+    <path class="edge" d="M20,68 Q57,47.3 94,68"   style="animation-delay:0s"/>
+    <path class="edge" d="M20,68 Q131,22 242,68"    style="animation-delay:0s"/>
+
+    <path class="edge" d="M94,68 Q131,47.3 168,68"  style="animation-delay:0.6s"/>
+    <path class="edge" d="M94,68 Q205,22 316,68"    style="animation-delay:0.6s"/>
+
+    <path class="edge" d="M168,68 Q205,47.3 242,68" style="animation-delay:1.2s"/>
+    <path class="edge" d="M168,68 Q279,22 390,68"   style="animation-delay:1.2s"/>
+
+    <path class="edge" d="M242,68 Q279,47.3 316,68" style="animation-delay:1.8s"/>
+    <path class="edge" d="M242,68 Q353,22 464,68"   style="animation-delay:1.8s"/>
+
+    <path class="edge" d="M316,68 Q353,47.3 390,68" style="animation-delay:2.4s"/>
+    <path class="edge" d="M316,68 Q427,22 538,68"   style="animation-delay:2.4s"/>
+
+    <path class="edge" d="M390,68 Q427,47.3 464,68" style="animation-delay:3.0s"/>
+    <path class="edge" d="M390,68 Q242,22 94,68"    style="animation-delay:3.0s"/>
+
+    <path class="edge" d="M464,68 Q501,47.3 538,68" style="animation-delay:3.6s"/>
+    <path class="edge" d="M464,68 Q316,22 168,68"   style="animation-delay:3.6s"/>
+
+    <path class="edge" d="M538,68 Q464,27 390,68"   style="animation-delay:4.2s"/>
+    <path class="edge" d="M538,68 Q353,22 168,68"   style="animation-delay:4.2s"/>
   </g>
 
-  <g class="nodes">
-    <circle class="node" cx="50" cy="25" r="5" style="animation-delay:0s"/>
-    <circle class="node" cx="50" cy="65" r="5" style="animation-delay:0.3s"/>
-    <circle class="node" cx="50" cy="105" r="5" style="animation-delay:0.6s"/>
-
-    <circle class="node" cx="320" cy="15" r="5" style="animation-delay:0.15s"/>
-    <circle class="node" cx="320" cy="50" r="5" style="animation-delay:0.45s"/>
-    <circle class="node" cx="320" cy="85" r="5" style="animation-delay:0.75s"/>
-    <circle class="node" cx="320" cy="120" r="5" style="animation-delay:1.05s"/>
-
-    <circle class="node out" cx="590" cy="65" r="7" style="animation-delay:0.9s"/>
+  <g class="tokens">
+    <rect class="token" x="16.5" y="64.5" width="7" height="7" style="animation-delay:0s"/>
+    <rect class="token" x="90.5" y="64.5" width="7" height="7" style="animation-delay:0.6s"/>
+    <rect class="token" x="164.5" y="64.5" width="7" height="7" style="animation-delay:1.2s"/>
+    <rect class="token" x="238.5" y="64.5" width="7" height="7" style="animation-delay:1.8s"/>
+    <rect class="token" x="312.5" y="64.5" width="7" height="7" style="animation-delay:2.4s"/>
+    <rect class="token" x="386.5" y="64.5" width="7" height="7" style="animation-delay:3.0s"/>
+    <rect class="token" x="460.5" y="64.5" width="7" height="7" style="animation-delay:3.6s"/>
+    <rect class="token" x="534.5" y="64.5" width="7" height="7" style="animation-delay:4.2s"/>
   </g>
 </svg>

@@ -2,17 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=200&section=header&text=Eivan%20Kolchin%20Rivas&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Physics%20%2B%20Machine%20Learning%20%2B%20Building%20Things&descAlignY=55&descSize=18" alt="banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=560&lines=MPhys+Physics+student;Python+%C2%B7+ML+%C2%B7+Data+Science;Southampton+%E2%86%92+London;Always+building+something;Currently+arguing+with+a+neural+network" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=560&lines=MPhys+Physics+student;Python+%C2%B7+ML+%C2%B7+Data+Science;Always+building" alt="Typing SVG" />
 
 </div>
 
-<img src="./neural-network.svg" alt="animated neural network diagram" width="100%"/>
+<div align="center">
+<img src="./neural-network.svg" alt="animated attention mechanism diagram" width="320"/>
+</div>
 
 ### About
 
-I study physics, but somewhere along the way I started spending more time in a terminal than in a lab. Most of what I actually do these days is software and ML: agents, small tools, products I talk myself into building. The physics side hasn't gone anywhere though; a university project estimating Hubble's constant from raw data was a good reminder that most of what I do now is just pattern matching with better maths.
+Physics taught me to look for the structure underneath things before touching anything; code turned out to want the same instinct, just tested faster. Somewhere between the two sits a university spent chasing Hubble's constant out of raw data, and a habit of building things nobody asked for, mostly to see if they'd hold together.
 
-Based between **Southampton** and **London**, primarily in **Python**, with **TypeScript/React** for anything that needs a real interface. Work-life balance is a rumour I haven't been able to confirm.
+Most of it happens after hours, which says something I'm choosing not to examine too closely.
+
+Primarily Python, TypeScript and React when a project needs a face.
 
 <br/>
 
