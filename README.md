@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=200&section=header&text=Eivan%20Kolchin%20Rivas&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Physics%20%2B%20Machine%20Learning%20%2B%20Building%20Things&descAlignY=55&descSize=18" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=200&section=header&text=Eivan%20Kolchin-Rivas&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Physics%20%2B%20Machine%20Learning%20%2B%20Building%20Things&descAlignY=55&descSize=18" alt="banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=560&lines=MPhys+Physics+student;Python+%C2%B7+ML+%C2%B7+Data+Science;Always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=560&lines=MPhys+Physics+Student;Python+%C2%B7+ML+%C2%B7+Data+Science;Always+building" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
-<img src="./neural-network.svg" alt="animated attention mechanism diagram" width="320"/>
+<img src="./neural-network.svg" alt="animated attention mechanism diagram" width="480"/>
 </div>
 
 ### About
@@ -93,8 +93,6 @@ Forecasting natural gas prices with machine learning: time-series modelling on r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EivanKolchin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Eivan's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivanKolchin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=EivanKolchin&theme=tokyonight&hide_border=true" alt="GitHub streak" width="70%"/>
 
