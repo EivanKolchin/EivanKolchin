@@ -12,11 +12,9 @@
 
 ### About
 
-Physics taught me to look for the structure underneath things before touching anything; code turned out to want the same instinct, just tested faster. Somewhere between the two sits a university spent chasing Hubble's constant out of raw data, and a habit of building things nobody asked for, mostly to see if they'd hold together.
+Physics trained me to model a system before touching it. Find the structure that governs it, then test the model against reality and watch where it breaks. Software rewards the same instinct, and it answers a lot faster than a telescope does. The first time I really trusted that instinct was pulling Hubble's constant out of raw observational data, which is mostly the discipline of separating signal from noise without fooling yourself. That same problem sits underneath everything I keep coming back to: machine learning, quantitative finance, and systems that have to stay standing under load.
 
-Most of it happens after hours, which says something I'm choosing not to examine too closely.
-
-Primarily Python, TypeScript and React when a project needs a face.
+Most of what I do now is architecture and building. A lot of what I do started as something nobody asked for, put together mainly to find out whether the idea would hold or ust to see how far it would go.
 
 <br/>
 
