@@ -24,7 +24,7 @@ Primarily Python, TypeScript and React when a project needs a face.
 
 I prototype constantly, most of it never sees daylight. Two things that made it far enough to be public:
 
-- **[Kerfox](https://github.com/EivanKolchin/kerfox-releases)**
+- **[Kerfox](https://www.kerfox.app)**, ([releases](https://github.com/EivanKolchin/kerfox-releases))
 - **[Axis](https://aroundaxis.co.uk)**, a small workspace app for teams. ([releases](https://github.com/EivanKolchin/Axis-Releases))
 
 <br/>
