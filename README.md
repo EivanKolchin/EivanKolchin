@@ -62,16 +62,16 @@ I prototype constantly, most of it never sees daylight. Two things that made it 
 A revision app for university students, with GCSE and A-Level coming soon. Short lessons built around diagrams, exam-style problems marked mark by mark with worked solutions, and spaced repetition that brings each topic back before you are likely to forget it. In closed testing: join the waitlist at www.kerfox.app.
 
 <sub><b>PLATFORMS</b></sub><br/>
-<img src="./assets/icons/pwa.svg" height="15" alt=""/>&nbsp; Web (PWA) &nbsp;&nbsp;&nbsp; <img src="./assets/icons/android.svg" height="15" alt=""/>&nbsp; Android
+<img src="./assets/icons/android.svg" height="15" alt=""/>&nbsp; Android (closed testing)
 <br/><br/>
 <sub><b>BUILT WITH</b></sub><br/>
 <img src="./assets/icons/react.svg" height="15" alt=""/>&nbsp; React &nbsp;&nbsp;&nbsp; <img src="./assets/icons/typescript.svg" height="15" alt=""/>&nbsp; TypeScript &nbsp;&nbsp;&nbsp; <img src="./assets/icons/capacitor.svg" height="15" alt=""/>&nbsp; Capacitor &nbsp;&nbsp;&nbsp; <img src="./assets/icons/supabase.svg" height="15" alt=""/>&nbsp; Supabase &nbsp;&nbsp;&nbsp; <img src="./assets/icons/cloudflareworkers.svg" height="15" alt=""/>&nbsp; Cloudflare Workers &nbsp;&nbsp;&nbsp; FSRS
 <br/><br/>
 <sub><b>STATUS</b></sub><br/>
-<img src="https://img.shields.io/badge/kerfox-free%20%C2%B7%20beta-F57017?style=flat-square" alt="free, in beta"/>
+<img src="https://img.shields.io/badge/kerfox-closed%20testing-F57017?style=flat-square" alt="in closed testing"/>
 <br/><br/>
 <sub><b>LINKS</b></sub><br/>
-<a href="https://www.kerfox.app">Website</a> &nbsp;·&nbsp; <a href="https://github.com/EivanKolchin/kerfox-releases">Releases</a>
+<a href="https://www.kerfox.app">Website</a> &nbsp;·&nbsp; <a href="https://www.kerfox.app/waitlist">Waitlist</a>
 
 <br/>
 
