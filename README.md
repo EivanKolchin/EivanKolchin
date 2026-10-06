@@ -59,7 +59,7 @@ I prototype constantly, most of it never sees daylight. Two things that made it 
 
 <br/>
 
-A free revision platform for GCSE through to PhD. Animated lessons show the idea rather than state it, practice questions are marked against the official exam-board schemes, and an adaptive memory engine notices what you are about to forget and brings it back first.
+A revision app for university students, with GCSE and A-Level coming soon. Short lessons built around diagrams, exam-style problems marked mark by mark with worked solutions, and spaced repetition that brings each topic back before you are likely to forget it. In closed testing: join the waitlist at www.kerfox.app.
 
 <sub><b>PLATFORMS</b></sub><br/>
 <img src="./assets/icons/pwa.svg" height="15" alt=""/>&nbsp; Web (PWA) &nbsp;&nbsp;&nbsp; <img src="./assets/icons/android.svg" height="15" alt=""/>&nbsp; Android
