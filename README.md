@@ -222,7 +222,7 @@ Forecasting natural gas prices with machine learning: time-series modelling on r
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eivan-kolchin-rivas-b7a092288/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eivan-kolchin-rivas/)
 [![Email](https://img.shields.io/badge/Email-0F2043?style=flat-square&logo=protonmail&logoColor=white)](mailto:eivan.kolchin@proton.me)
 
 </div>
